@@ -1,6 +1,8 @@
-# static
-静态资源
-she add
-zhe shi yi ge shenqi de  wang zhan
-huo zhe shuo si yi ge qi ji
-香蕉香蕉我是芒果
+####git 常用命令####
+git status
+git add . 
+git commit -m ''
+(git commit -am '',不能用於新追蹤的文件)
+git pull 
+git push 
+git remote -v 查看遠程路徑
