@@ -6,3 +6,8 @@ git commit -m ''
 git pull 
 git push 
 git remote -v 查看遠程路徑
+
+#修改名字
+git config --global user.name
+git config --global user.email
+
